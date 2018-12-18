@@ -10,7 +10,9 @@ yarn
 Or
 ```
 npm install
+```
 
+```
 // generate excel
 bable-node src/LocalDataProcessor.js
 ```
