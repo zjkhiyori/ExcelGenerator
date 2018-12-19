@@ -1,5 +1,9 @@
 # ExcelGenerator
 A demo of generate excel, write by nodeJS
+
+## Dependencies
+[excel-export](https://github.com/functionscope/Node-Excel-Export)
+
 ## Prerequisites
 Install [NodeJS](https://github.com/nodejs/node)
 
